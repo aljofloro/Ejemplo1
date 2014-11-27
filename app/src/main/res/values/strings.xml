@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Saludo UPT</string>
+    <string name="Saludo">Hola</string>
+    <string name="action_settings">Opciones</string>
+    <string name="ing_nombre">Ingrese su nombre:</string>
+    <string name="title_activity_hoarr">Hoarr</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
